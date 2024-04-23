@@ -5,7 +5,7 @@ I hope you guys are doing well.
 I am an Ex-Cognizant Software Engineer.
 My expertise include Application and Web Development.
 Primary Skills: Java,JavaScript,ReactJs
-Future Skills: AI & ML & Robotics (Why not join the hype tree) 
+Future Skills: AI & ML & Robotics (Why not join the hype train) 
 
 
 
