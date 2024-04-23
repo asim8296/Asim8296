@@ -6,7 +6,7 @@ I am an Ex-Cognizant Software Engineer.
 My expertise include Application and Web Development.
 Primary Skills: Java,JavaScript,ReactJs
 Future Skills: AI & ML & Robotics (Why not join the hype tree) 
-📫 How to reach me: +91 9830274097 & +91 8296474749 & hashmiasim2235@gmail.com
+
 
 
 Currently My plan is to excel at my Software Engineering skills and then optimize it in future.
